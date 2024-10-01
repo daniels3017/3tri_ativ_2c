@@ -1,0 +1,23 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    color:yellow;
+    border-style: double;
+    border-color: black;
+}
+
+h2{
+    color: yellow;
+}
+
+h3{
+    color: yellow;
+
+}
